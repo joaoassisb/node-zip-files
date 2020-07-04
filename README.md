@@ -1,2 +1,2 @@
 # node-zip-files
-Test for compressing multiple files and sending as a stream in NodeJS
+Test for compressing multiple files api in NodeJS, and allow sending response to client as a stream.
